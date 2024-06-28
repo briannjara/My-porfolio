@@ -1,1 +1,1 @@
-https://briannjara.github.io/My-portfolio/  --------> link page
+ https://briannjara.github.io/My-porfolio/  --------> link page
