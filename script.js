@@ -37,7 +37,7 @@ updateGuide();
 // github projects
 document.addEventListener("DOMContentLoaded", () => {
   const username = 'briannjara';
-  const token = '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';
+  const token = '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';
 
   async function fetchGitHubProjects() {
       const response = await fetch(`https://api.github.com/users/${username}/repos`, {
